@@ -1,0 +1,20 @@
+getting started
+basic final
+prj-basic-final
+
+
+try- ng-class
+
+
+Event can be created
+
+- Bind input model
+[(ngModel)]
+formcontroller
+#serverNameInput
+
+- import ElementRef, EventEmitter if you want to use.
+
+
+Create another projects:
+try all commands for component creation. Keep it for reference.

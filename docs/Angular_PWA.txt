@@ -1,0 +1,12 @@
+jason watmore blog
+
+
+
+
+npm install
+ng add @angular/pwa
+ng build --prod
+npm install -g http-server
+
+cd dist/angular-pwa
+http-server -p 8081	

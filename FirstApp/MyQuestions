@@ -1,0 +1,11 @@
+Why some files are named as module in angular?
+How all the typescript files get called up and get executed?
+
+
+The core and platform-browser comes from the folder node-modules/@angular
+The ts file that has @NgModule seems likes the starting file for the app.
+The local ts file can used to import their respective class.
+
+so to use class AppComponent, from file app.component.ts
+the statement will be
+import { AppComponent } from './app.component'
